@@ -1,0 +1,19 @@
+{
+  "name": "test-pt-monosolution",
+  "version": "1.0.0",
+  "description": "Create CRUD Product Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Test-Typescript-PT-Monosolution"
+  },
+  "keywords": [
+    "API",
+    "Product"
+  ],
+  "author": "Muhammad Aji Putra",
+  "license": "MIT"
+}
